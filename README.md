@@ -1,11 +1,9 @@
-<!-- Profile README for Riyow -->
+<!-- README by Riyow -->
 
 <h1 align="center">🌙 Hi, I'm <span style="color:#00C3FF;">Lowell Grey Ayuban</span> (Riyow)</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C3FF&center=true&vCenter=true&width=520&lines=Aspiring+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things+💡" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C3FF&center=true&vCenter=true&width=520&lines=Aspiring+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
