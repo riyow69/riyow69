@@ -3,7 +3,7 @@
 <h1 align="center">🌙 Hi, I'm <span style="color:#00C3FF;">Lowell Grey Ayuban</span> (Riyow)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C3FF&center=true&vCenter=true&width=520&lines=Aspiring+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things;Computer Science Undergraduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C3FF&center=true&vCenter=true&width=520&lines=Aspiring+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things;Computer+Science+Undergraduate" alt="Typing SVG" />
 </p>
 
 ---
