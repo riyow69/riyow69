@@ -48,6 +48,8 @@ I love crafting solutions that bridge **intelligence and creativity**, from AI-d
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-%231DB954?style=for-the-badge&logo=servicenow&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
