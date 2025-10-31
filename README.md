@@ -21,7 +21,7 @@ I love crafting solutions that bridge **intelligence and creativity**, from AI-d
 
 ---
 
-### ⚙️ Tech Stack  
+### Tech Stack  
 
 ####  Languages  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
